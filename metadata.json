@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Stylizer",
+  "description": "Upload an image and use predefined styles or custom text prompts to edit it using the Gemini 2.5 Flash Image model. Transform your photos into various art styles like vector art, pop art, 3D, and more.",
+  "requestFramePermissions": []
+}

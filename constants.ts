@@ -1,0 +1,18 @@
+export const STYLES = [
+  'Vector Art',
+  'Flat',
+  'Hyper-Detailed',
+  'Dotwork Tritone',
+  'WPAP',
+  'Stencil',
+  'Pop Art',
+  'Synthwave',
+  'Line-Art',
+  'Bauhaus',
+  'Sticker',
+  '3D',
+  'Halftone',
+  'Cinematic',
+  'Retro Filter',
+  'Remove the background',
+];
